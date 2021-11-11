@@ -1,1 +1,1 @@
-# Ejemplo
+# Box Class
